@@ -9,9 +9,9 @@ Aplikasi dikembangkan dengan:
 
 Pattern yang Digunakan
  MVP (Model View Presenter)
-- View → CartView
+- View - CartView
 - Presenter → Responsi.java
-- Model → Repository & DTO
+- Model - Repository & DTO
 Repository Pattern
 Digunakan untuk memisahkan akses database dari logic aplikasi
 Strategy Pattern
