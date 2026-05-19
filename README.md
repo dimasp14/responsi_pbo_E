@@ -15,4 +15,4 @@ Pattern yang Digunakan
 Repository Pattern
 Digunakan untuk memisahkan akses database dari logic aplikasi
 Strategy Pattern
-Digunakan untuk sistem diskon agar mudah dikembangkan
+Digunakan untuk sistem diskon
